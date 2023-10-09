@@ -53,7 +53,7 @@ function Main() {
                     }°
                     </h1>
 
-                    <img src={"https://openweathermap.org/img/wn/" + ico + "@2x.png"} alt="" />
+                    <img className='img' src={"https://openweathermap.org/img/wn/" + ico + "@2x.png"} alt="" />
 
                 </div>
 
