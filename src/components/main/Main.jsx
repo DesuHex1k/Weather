@@ -71,9 +71,9 @@ function Main() {
                 </div>
 
                 <div style={{display: `${visible ? 'flex' : 'none'}`}} className='inf'>
-                    <h3 className="txt">Скорость ветра {wind.speed} m/s</h3>
-                    <h3 className="txt">Облачность {cloud.all}%</h3>
-                    <h3 className="txt wind">Направление ветра<h3 style={{transform: `rotate(${wind.gust}rad)`}}>↑</h3></h3>
+                    <h4 className="txt">Скорость ветра {wind.speed} m/s</h4>
+                    <h4 className="txt">Облачность {cloud.all}%</h4>
+                    <h4 className="txt wind">Направление ветра<h4 style={{transform: `rotate(${wind.gust}rad)`}}>↑</h4></h4>
                     
                 </div>
 
