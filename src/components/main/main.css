@@ -60,6 +60,7 @@
     display: flex;
     padding: 2em;
     gap: 2em;
+    align-items: center;
 }
 
 .logo {
@@ -81,3 +82,19 @@
     display: flex;
 }
 
+.err {
+    color: red;
+}
+
+/* .visible {
+    display: none;
+}
+
+.visible:hover{
+    display: flex;
+} */
+
+.wind {
+    display: flex;
+    gap: 1em;
+}
