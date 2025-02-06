@@ -7,7 +7,7 @@ import Main from "./components/main/Main";
 function App() {
   return (
     <div className="App">
-      {/* <Log/> */}
+      
       <Main/>
     </div>
   );
